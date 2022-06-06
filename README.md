@@ -18,6 +18,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <!-- This section you create this variables that are used above -->
-[website]: https://chuyenmucit.code.blog
-[youtube]: [https://twitter.com/indrajeet_nikam](https://www.youtube.com/channel/UCP7h-ptIycD0NFg8eQk3XmQ/featured)
-[fb]: https://fb.com/dangtung789
+[website]: [Chuyên mục IT](https://chuyenmucit.code.blog)
+[youtube]: [Chia sẻ lập trình](https://www.youtube.com/channel/UCP7h-ptIycD0NFg8eQk3XmQ/featured)
+[fb]: [Đặng Thanh Tùng](https://fb.com/dangtung789)
