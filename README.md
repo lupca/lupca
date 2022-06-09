@@ -9,9 +9,11 @@
 <!-- Also feel free to update second URL to any URL -->
 [![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=Lupca&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 ## Connect with me:
-[website]: [Chuyên mục IT](https://chuyenmucit.code.blog)
-[youtube]: [Chia sẻ lập trình](https://www.youtube.com/channel/UCP7h-ptIycD0NFg8eQk3XmQ/featured)
-[fb]: [Đặng Thanh Tùng](https://fb.com/dangtung789)
+[Blog: Chuyên mục IT](https://chuyenmucit.code.blog)
+
+[Youtube: Chia sẻ lập trình](https://www.youtube.com/channel/UCP7h-ptIycD0NFg8eQk3XmQ/featured)
+
+[Fb: Đặng Thanh Tùng](https://fb.com/dangtung789)
 
 <br />
 <!-- Optional if you have blogs -->
