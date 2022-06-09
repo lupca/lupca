@@ -17,7 +17,7 @@
 
 <br />
 <!-- Optional if you have blogs -->
-## Latest blog posts:
+<!-- ## Latest blog posts: -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <!-- This section you create this variables that are used above -->
